@@ -1,5 +1,4 @@
-Hello World Java German
-
+Verwendung: 
 z.b. Zum Testen ob Java richtig installiert ist.
 
 ---
