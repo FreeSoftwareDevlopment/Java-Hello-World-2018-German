@@ -1,6 +1,6 @@
 Verwendung: 
-z.b. Zum Testen ob Java richtig installiert ist.
-
+- z.b. Zum Testen ob Java richtig installiert ist.
+  
 ---
 ## Downloadcenter:
 - [Java Quelle](https://freesoftwaredevlopment.github.io/Java-Hello-World-2018-German/src/HelloWorld.java)
