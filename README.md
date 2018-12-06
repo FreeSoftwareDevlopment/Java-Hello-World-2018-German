@@ -14,3 +14,4 @@ Sie können aber auch Java automatisch mitinstallieren.
 
 oder das project für [Eclipse](https://github.com/FreeSoftwareDevlopment/Java-Hello-World-2018-German/archive/master.zip) als ZIP datei.
 
+In dem project enthalten ist auch ein ANT-Buildfile (build.xml)
